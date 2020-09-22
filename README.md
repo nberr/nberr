@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Nico 👋
 
 <!--
 **nberr/nberr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently learning about audio programming. I'll be start a masters program this coming October!
