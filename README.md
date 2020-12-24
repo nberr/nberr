@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently learning about audio programming. I'll be starting a masters program this coming October!
+I'm currently learning about audio programming and artificial intelligence. 
