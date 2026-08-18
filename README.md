@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently learning about audio programming and artificial intelligence. 
+I'm currently in the process of moving my repos to git.nberr.io
+
+Here are some of my tech related interests:
+- self-hosting/homelab
+- Digital Signal Processing for audio plugins
+- embedded systems
+- artificial intelligence
