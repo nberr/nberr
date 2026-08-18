@@ -22,3 +22,12 @@ Here are some of my tech related interests:
 - Digital Signal Processing for audio plugins
 - embedded systems
 - artificial intelligence
+
+Technologies that I use:
+- C/C++
+- Python/Pytorch
+- JUCE
+- Docker
+- Proxmox
+- Cloudflare
+- TrueNAS
