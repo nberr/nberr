@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently in the process of moving my repos to [https://git.nberr.io](git.nberr.io)
+I'm currently in the process of moving my repos to [git.nberr.io]([git.nberr.io](https://git.nberr.io))
 
 Here are some of my tech related interests:
 - self-hosting/homelab
